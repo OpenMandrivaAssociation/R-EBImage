@@ -12,6 +12,7 @@ Source0:          http://bioconductor.org/packages/release/bioc/src/contrib/%{pa
 Requires:         R-methods R-graphics R-stats R-utils R-abind 
 BuildRequires:    R-devel Rmath-devel texlive-collection-latex R-methods R-graphics R-stats R-utils R-abind
 BuildRequires:    imagemagick-devel
+BuildRequires:    jpeg-devel
 
 %description
 EBImage is an R package which provides general purpose functionality for
