@@ -3,7 +3,7 @@
 
 Name:             R-%{packname}
 Version:          3.10.0
-Release:          1
+Release:          2
 Summary:          Image processing toolbox for R
 Group:            Sciences/Mathematics
 License:          Artistic-2.0
