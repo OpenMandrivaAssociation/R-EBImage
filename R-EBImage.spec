@@ -7,7 +7,7 @@ Release:          2
 Summary:          Image processing toolbox for R
 Group:            Sciences/Mathematics
 License:          Artistic-2.0
-URL:              http://bioconductor.org/packages/release/bioc/html/%{packname}.html
+URL:              https://bioconductor.org/packages/release/bioc/html/%{packname}.html
 Source0:          http://bioconductor.org/packages/release/bioc/src/contrib/%{packname}_%{version}.tar.gz
 Requires:         R-methods R-graphics R-stats R-utils R-abind 
 BuildRequires:    R-devel Rmath-devel texlive-collection-latex R-methods R-graphics R-stats R-utils R-abind
